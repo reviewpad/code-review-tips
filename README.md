@@ -2,7 +2,7 @@
 
 ![List of code review tips](images/title.png)
 
-<p>New to code review? Expert? These tips will still be very useful to elevate the quality of your code reviews doesn't matter your experience in code reviews.</p>
+<p> New to code review? Expert? These tips will still be very useful to elevate the quality of your code reviews doesn't matter your experience in code reviews. We have split them into different categories to help you even further. </p>
 
 |Code Review Tip                                                                                                                                                                                                                                                                                                                                                        |Category     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
