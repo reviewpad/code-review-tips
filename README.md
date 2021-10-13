@@ -1,4 +1,4 @@
-# List of code review tips
+<div align="center"> # List of code review tips </div>
 ![List of code review tips](images/title.png)
 Collection of code review tips
 |Code Review Tip                                                                                                                                                                                                                                                                                                                                                        |Category     |
