@@ -1,6 +1,6 @@
 # List of code review tips
 
-![List of code review tips](CodeReviewTips@2x.png)
+![List of code review tips](images/CodeReviewTips@2x.png)
 
 <p> New to code review? Expert? These tips will still be very useful to elevate the quality of your code reviews doesn't matter your experience in code reviews. We have split them into different categories to help you even further. Feel free to send us more tips that you think are important.</p>
 
