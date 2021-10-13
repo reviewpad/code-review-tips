@@ -1,6 +1,9 @@
 # List of code review tips
+
 ![List of code review tips](images/title.png)
-Collection of code review tips
+
+<p>Collection of code review tips</p>
+
 |Code Review Tip                                                                                                                                                                                                                                                                                                                                                        |Category     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 |Focus on the code, not the person. Be kind and open-minded. Code review is a dialogue. It is easier to fix code than relationships.                                                                                                                                                                                                                                   |Mindset      |
