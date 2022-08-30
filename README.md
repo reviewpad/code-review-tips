@@ -1,8 +1,10 @@
-# List of code review tips
+# Code Review Tips
 
 ![List of code review tips](images/CodeReviewTips@2x.png)
 
 <p> New to code review? Expert? These tips will be useful to elevate your code reviews, no matter your experience in code reviews. We split them into several categories to make it easier to browse them. Feel free to suggest more tips that you think this list is missing.</p>
+
+**If you are interested in code reviews and pull request automation, then get involved with the community on [Discord](https://reviewpad.com/discord).**
 
 |Code Review Tip                                                                                                                                                                                                                                                                                                                                                        |Category     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
